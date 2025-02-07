@@ -64,3 +64,7 @@ Multiple extras can be combined using commas:
 ```bash
 pip install 'camel-ai[rag,web_tools,document_tools]'  # Example: RAG system with web search and document processing
 ```
+
+# Demo
+
+![demo](outputs/brochure_generator.gif)
